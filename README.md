@@ -1,9 +1,11 @@
 
 <h1 align="center">🌟 Olá! Eu sou Davidson Linhares – Vamos nos Conectar e Explorar Juntos! 🚀</h1>
-<h5 align="center">
-  Sou **Desenvolvedor Backend** com experiência no desenvolvimento e manutenção de projetos robustos, principalmente no setor de **SaaS**, utilizando tecnologias como **Spring Framework**, **Spring Boot**, **JUnit**, **Spring Security**, **Docker** e **PostgreSQL**. Ao longo do último ano, tive a oportunidade de construir aplicações escaláveis e de alto desempenho, solucionando problemas complexos de negócios e aprimorando não apenas minha expertise técnica, mas também habilidades em resolução de problemas, adaptação a novas tecnologias, pensamento crítico e trabalho em equipe.
+<h5 align="justify">
+  Sou Desenvolvedor Backend com experiência no desenvolvimento e manutenção de projetos robustos, principalmente no setor de SaaS, utilizando tecnologias como Spring Framework, Spring Boot, JUnit, Spring Security, Docker e PostgreSQL. Ao longo do último ano, tive a oportunidade de construir aplicações escaláveis e de alto desempenho, solucionando problemas complexos de negócios e aprimorando não apenas minha expertise técnica, mas também habilidades em resolução de problemas, adaptação a novas tecnologias, pensamento crítico e trabalho em equipe.
+</h5>
 
-Atualmente, estou cursando **Engenharia de Software** e tenho uma formação anterior em **Ciências Biológicas** pela **Universidade Federal do Rio de Janeiro**, o que me proporciona uma visão única para resolver problemas de forma criativa. Essa transição para a área de tecnologia foi realizada de forma natural, movida por minha paixão por computação e, principalmente, por desafios no desenvolvimento de soluções práticas.
+<h5 align="justify">
+  Atualmente, estou cursando Engenharia de Software e tenho uma formação anterior em Ciências Biológicas pela Universidade Federal do Rio de Janeiro, o que me proporciona uma visão única para resolver problemas de forma criativa. Essa transição para a área de tecnologia foi realizada de forma natural, movida por minha paixão por computação e, principalmente, por desafios no desenvolvimento de soluções práticas.
 
 Além disso, tenho documentado minha jornada de aprofundamento nas tecnologias que adotei como parte da minha carreira profissional como desenvolvedor através do **YouTube**, compartilhando essa rotina de constante aprendizado, ajudando outros desenvolvedores iniciantes que estão começando nessa jornada. 
 </h5>
