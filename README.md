@@ -11,9 +11,7 @@ Além disso, tenho documentado minha jornada de aprofundamento nas tecnologias q
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidsonlinhss&label=Profile%20views&color=0e75b6&style=flat" alt="davidsonlinhss" /> </p>
 
 - 🌱 Atualmente, estou aprendendo **Java, Spring Framework e Docker**
-
 - 📝 Leio regularmente artigos sobre [https://www.sciencedirect.com/journal/journal-of-systems-and-software](https://www.sciencedirect.com/journal/journal-of-systems-and-software)
-
 - 💬 Pergunte-me sobre **Java**, se eu não souber responder, vamos pesquisar juntos!
 - 🚀 Visite meu canal e acompanhe minha **jornada**: [https://www.youtube.com/@Dav.linhss](https://www.youtube.com/@Dav.linhss)
 
@@ -38,7 +36,7 @@ Além disso, tenho documentado minha jornada de aprofundamento nas tecnologias q
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>  
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidsonlinhss&show_icons=true&locale=en&layout=compact" alt="davidsonlinhss" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DavJaveiro&show_icons=true&locale=en&layout=compact" alt="DavJaveiro" /></p>
 
 
 <h2>
