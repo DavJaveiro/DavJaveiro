@@ -40,13 +40,6 @@ Além disso, tenho documentado minha jornada de aprofundamento nas tecnologias q
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DavJaveiro&show_icons=true&locale=en&layout=compact" alt="DavJaveiro" /></p>
 
-
-<h2>
-  Meu **Road_Map Acess**
-  <p>https://github.com/Davidsonlinhss/DavJaveiro_RoadMap_Study</p>
-  <p>  <img src="https://github.com/user-attachments/assets/407e072a-b32a-4182-a8c2-2c4c559feecf" width="600"></p>
-</h2>
-
 <h3>
 Agradeço por visitar meu portfólio! 🙌  
 </h3>
