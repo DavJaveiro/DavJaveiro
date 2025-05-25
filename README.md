@@ -1,5 +1,5 @@
 
-<h1 align="center">🌟 Olá! Eu sou Davidson Linhares – Vamos nos Conectar e Explorar Juntos! 🚀</h1>
+<h1 align="center">🌟 Olá! Vamos nos Conectar e Explorar Juntos! 🚀</h1>
 <h5 align="justify">
   Sou Desenvolvedor Backend com experiência no desenvolvimento e manutenção de projetos robustos, principalmente no setor de SaaS, utilizando tecnologias como Spring Framework, Spring Boot, JUnit, Spring Security, Docker e PostgreSQL. Ao longo do último ano, tive a oportunidade de construir aplicações escaláveis e de alto desempenho, solucionando problemas complexos de negócios e aprimorando não apenas minha expertise técnica, mas também habilidades em resolução de problemas, adaptação a novas tecnologias, pensamento crítico e trabalho em equipe.
 </h5>
