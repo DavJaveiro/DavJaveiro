@@ -15,15 +15,15 @@ Além disso, tenho documentado minha jornada de aprofundamento nas tecnologias q
 - 🌱 Atualmente, estou aprendendo **Java, Spring Framework e Docker**
 - 📝 Leio regularmente artigos científicos da área em [https://www.sciencedirect.com/journal/journal-of-systems-and-software](https://www.sciencedirect.com/journal/journal-of-systems-and-software)
 - 💬 Pergunte-me sobre **Java**, se eu não souber responder, vamos pesquisar juntos!
-- 🚀 Visite meu canal e acompanhe minha **jornada**: [https://www.youtube.com/@DavJaveiro](https://www.youtube.com/@DavJaveiro)
 
-<h3 align="left">Conecte-se comigo:</h3>
+
+<h3 align="left">Meu Linkedin:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/davidson-linhares/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/davidson-linhares-ba5710317/" height="30" width="40" /></a>
 </p>
-<p aligg="center">
-  <a href="https://www.youtube.com/@DavJaveiro" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" alt="javascript" width="40" height="40"/> </a>
-</p>
+
+<h3 align="left">Meu Canal no YouTube:</h3>
+<a href="https://www.youtube.com/@DavJaveiro" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" alt="javascript" width="40" height="40"/></a>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 
