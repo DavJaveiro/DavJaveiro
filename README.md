@@ -1,5 +1,5 @@
 
-<h1 align="center">🌟 Olá! Vamos nos Conectar e Explorar Juntos! 🚀</h1>
+<h1 align="center">🌟 Vamos nos Conectar e Explorar Juntos! 🚀</h1>
 <h5 align="justify">
   Sou Desenvolvedor Backend com experiência no desenvolvimento e manutenção de projetos robustos, principalmente no setor de SaaS, utilizando tecnologias como Spring Framework, Spring Boot, JUnit, Spring Security, Docker e PostgreSQL. Ao longo do último ano, tive a oportunidade de construir aplicações escaláveis e de alto desempenho, solucionando problemas complexos de negócios e aprimorando não apenas minha expertise técnica, mas também habilidades em resolução de problemas, adaptação a novas tecnologias, pensamento crítico e trabalho em equipe.
 </h5>
@@ -13,16 +13,16 @@ Além disso, tenho documentado minha jornada de aprofundamento nas tecnologias q
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidsonlinhss&label=Profile%20views&color=0e75b6&style=flat" alt="davidsonlinhss" /> </p>
 
 - 🌱 Atualmente, estou aprendendo **Java, Spring Framework e Docker**
-- 📝 Leio regularmente artigos sobre [https://www.sciencedirect.com/journal/journal-of-systems-and-software](https://www.sciencedirect.com/journal/journal-of-systems-and-software)
+- 📝 Leio regularmente artigos científicos da área em [https://www.sciencedirect.com/journal/journal-of-systems-and-software](https://www.sciencedirect.com/journal/journal-of-systems-and-software)
 - 💬 Pergunte-me sobre **Java**, se eu não souber responder, vamos pesquisar juntos!
-- 🚀 Visite meu canal e acompanhe minha **jornada**: [https://www.youtube.com/@Dav.linhss](https://www.youtube.com/@Dav.linhss)
+- 🚀 Visite meu canal e acompanhe minha **jornada**: [https://www.youtube.com/@DavJaveiro](https://www.youtube.com/@DavJaveiro)
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/davidson-linhares-ba5710317/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/davidson-linhares-ba5710317/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/davidson-linhares/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/davidson-linhares-ba5710317/" height="30" width="40" /></a>
 </p>
 <p aligg="center">
-  <a href="https://www.youtube.com/@Dav.linhss" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.youtube.com/@DavJaveiro" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" alt="javascript" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
@@ -38,7 +38,6 @@ Além disso, tenho documentado minha jornada de aprofundamento nas tecnologias q
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>  
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DavJaveiro&show_icons=true&locale=en&layout=compact" alt="DavJaveiro" /></p>
 
 <h3>
 Agradeço por visitar meu portfólio! 🙌  
